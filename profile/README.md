@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/search?q=%40maryoku-ui"><img src="https://img.shields.io/npm/v/@maryoku-ui/react?color=cb0303&logo=npm&label=version" alt="Package version" /></a>
   <a href="https://github.com/maryoku-ui/maryoku-ui/stargazers"><img src="https://img.shields.io/github/stars/maryoku-ui/maryoku-ui.svg?logoColor=white&logo=apachespark&color=4D8C6F" alt="GitHub stars" /></a>
+  <a href="https://github.com/orgs/maryoku-ui/followers"><img src="https://img.shields.io/github/followers/maryoku-ui?style=social" alt="Github follow" /></a>
   
   <a href="https://discord.gg/N82HK72uJk"><img alt="Discord" src="https://img.shields.io/discord/1035536246811922492?label=discord&style=social&color=5865f2&logoColor=FFFFFF"></a>
   <a href="http://buymeacoffee.com/innocces"><img src="https://img.shields.io/badge/Support-project?logo=ko-fi&color=ea4aaa&logoColor=white" alt="Sponsor" /></a>
